@@ -30,32 +30,9 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+.gitignore
 
 # Project-specific files
 Examples/
-accordion.js
-autosize.js
-bootstrap-modal.js
-colorpicker.js
-containsi.js
-google.rss.js
-hideurl.js
-hyphenate.js
-label.js
-lightbox.js
-loading.js
-lorem.js
-modal.js
-phone.js
-refresh.js
-scroll.js
-search.js
-slide.js
-slideshow.js
-sort.js
-swipe.js
-truncate.js
-upload.js
-utility-resizer.js
-validate.js
-xss.js
+*.js
+!auburn.user.js
