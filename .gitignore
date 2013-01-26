@@ -35,4 +35,5 @@ Thumbs.db
 # Project-specific files
 Examples/
 *.js
+*.html
 !auburn.user.js
