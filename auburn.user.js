@@ -4,6 +4,7 @@
 // @description	Automatically uses https:// on all fp.auburn.edu sites. Toggles cws/www at 404s. Allows for
 //                  [dev, test, migr, cws, fp, auburn]/<PROJECT_NAME> redirects.
 // @match		*://*auburn.edu*
+// @match       */*
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @copyright	Clay Miller (clay@smockle.com), Jake Harris (javakatdesign@gmail.com)
 // ==/UserScript==
